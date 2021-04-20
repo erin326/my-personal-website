@@ -1,17 +1,43 @@
 body {
     background:linear-gradient(#e77cc7,rgb(122, 204, 204));
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    margin-bottom: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+ 
     
 }
 h1 {
     text-align: center;
+    cursor: pointer;
+    cursor:hand;
+    color:rgb(110, 9, 77)
 }
 h2 {
-    color:rgb(54, 67, 80);
-    text-align: center;
+    color:rgb(64, 56, 134)
+    /*text-align: center; */
 }
 
 h3 {
     color:rgb(64, 56, 134)
 }
+
+div#links {
+    padding-top: 30px;
+    padding-bottom: 15px;
+
+}
+
+button, div#intro, div#skills {
+    cursor:pointer;
+    cursor:hand;
+}
+
+div#image-1 {
+    height: 350px;
+    width: 400px;
+
+}
+
+
+
