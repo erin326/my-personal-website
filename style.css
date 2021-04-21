@@ -27,15 +27,15 @@ h3 {
     color:rgb(64, 56, 134)
 }
 
-#links > div {
-    float: left;
-    background-color: rgb(240, 245, 243);
-    text-align: center;
+#links > div, #links > p {
+
+    
     width: 100%;
-    height:30px;
-    padding-top: 20px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
   
 
 }
